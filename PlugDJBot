@@ -199,10 +199,10 @@ function initAPIListeners() {
 }
 
 function displayUI() {
-	var colorWoot = autowoot ? '#3FFF00' : '#ED1C24';
-    	var colorQueue = autoqueue ? '#3FFF00' : '#ED1C24';
-    	var colorStream = streaming ? '#3FFF00' : '#ED1C24';
-    	var colorVideo = hideVideo ? '#3FFF00' : '#ED1C24';
+	var colorWoot = autowoot ? '#CD2626' : '#00EE00';
+    	var colorQueue = autoqueue ? '#CD2626' : '#00EE00';
+    	var colorStream = streaming ? '#CD2626' : '#00EE00';
+    	var colorVideo = hideVideo ? '#CD2626' : '#00EE00';
 	$('#side-right .sidebar-content').append(
 			'<a title="Settings" style="color:#FFD700">Configurações:</a>'
 		+	'<a id="plug-btn-woot" title="Ativar/Desativar Auto-Woot" style="color:' + colorWoot + '">AutoWoot</a>'
