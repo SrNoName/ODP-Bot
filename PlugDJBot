@@ -59,7 +59,7 @@ var words = {
 "Now Playing" : "Now Spinning!",
 "Time Remaining" : "Tempo Restante!",
 "Volume" : "Ajustar Volume!",
-"DJ Atual" : "Dj Atual",
+"DJ Atual" : "DJ Atual",
 "Crowd Response" : "Crowd Reaction!",
 "Fans":"Loucos!"};
 
@@ -509,7 +509,7 @@ function populateUserlist() {
 	if ($('#side-left .sidebar-content2').children().length > 0) {
             	$('#side-left .sidebar-content2').append();
 	}
-        $('#side-left .sidebar-content2').html('<h3 class="users" title="numero de usuarios na sala">Usuarios: ' + API.getUsers().length + '</h3>');
+        $('#side-left .sidebar-content2').html('<h3 class="users" title="Numero de Usuarios na Sala">Usuarios: ' + API.getUsers().length + '</h3>');
         var spot = API.getWaitListPosition();
         var waitlistDiv = $('<h3 title="waitlist posisition"></h3>').addClass('waitlistspot').text('Lista de Espera: ' + (spot !== null ? spot + ' / ' : '') + API.getWaitList().length);
         var waitpostime = API.getWaitListPosition() * 240;
