@@ -57,7 +57,7 @@ function onCookiesLoaded() {
 var words = {
 "Points" : "Pontos!",
 "Now Playing" : "Now Spinning!",
-"Time Remaining" : "Time Remaining!",
+"Time Remaining" : "Tempo Restante!",
 "Volume" : "Ajustar Volume!",
 "DJ Atual" : "Dj Atual",
 "Crowd Response" : "Crowd Reaction!",
@@ -221,7 +221,7 @@ function displayUI() {
 		+	'<a id="plug-btn-working" title="Manda Mensagem de Trabalhar e coloca status Ocupado" style="color:#5F04B4">Ocupado</a>'
 		+	'<a id="plug-btn-afk" title="Manda Mensagem de Ausente e coloca status Ausente" style="color:#5F04B4">Ausente</a>'
 		+	'<a id="plug-btn-back" title="Manda Mensagem De Disponivel e coloca status Disponivel" style="color:#5F04B4">Disponivel</a>'
-		+	'<a title="Moderation" style="color:#FFD700">Moderação:</a>'
+		+	'<a title="Moderação da Sala" style="color:#FFD700">Moderação:</a>'
 		+	'<a id="plug-btn-skip" title="Pula o Dj Atual" style="color:#E90E82">Pular</a>'
 		+	'<a id="plug-btn-lock" title="Trava a Cabine" style="color:#E90E82">Travar</a>'
 		+	'<a id="plug-btn-unlock" title="Destrava a Cabine" style="color:#E90E82">Destravar</a>'
