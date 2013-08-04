@@ -112,7 +112,7 @@ var COOKIE_HIDE_VIDEO = 'hidevideo';
 var COOKIE_LEFT = 'left';
 var MAX_USERS_WAITLIST = 50;
 
-var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me e /em. 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo."; 
+var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em. 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo."; 
 var rulesMsg2 = "Temas permitidos: Tudo Menos Porn* e Funk .";
 var rulesMsg3 = "";
 var linksMsg = [""];
@@ -199,10 +199,10 @@ function initAPIListeners() {
 }
 
 function displayUI() {
-	var colorWoot = autowoot ? '#CD2626' : '#00EE00';
-    	var colorQueue = autoqueue ? '#CD2626' : '#00EE00';
-    	var colorStream = streaming ? '#CD2626' : '#00EE00';
-    	var colorVideo = hideVideo ? '#CD2626' : '#00EE00';
+	var colorWoot = autowoot ? '#3FFF00' : '#ED1C24';
+    	var colorQueue = autoqueue ? '#3FFF00' : '#ED1C24';
+    	var colorStream = streaming ? '#3FFF00' : '#ED1C24';
+    	var colorVideo = hideVideo ? '#3FFF00' : '#ED1C24';
 	$('#side-right .sidebar-content').append(
 			'<a title="Settings" style="color:#FFD700">Configurações:</a>'
 		+	'<a id="plug-btn-woot" title="Ativar/Desativar Auto-Woot" style="color:' + colorWoot + '">AutoWoot</a>'
