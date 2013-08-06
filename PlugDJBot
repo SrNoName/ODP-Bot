@@ -112,7 +112,7 @@ var COOKIE_HIDE_VIDEO = 'hidevideo';
 var COOKIE_LEFT = 'left';
 var MAX_USERS_WAITLIST = 50;
 
-var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em. 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fiq;min-height:33px;min-width:131px;}',ue pedindo cargo. 6- Sem spam no chat. "; 
+var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em. 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo. 6- Sem spam no chat. "; 
 var rulesMsg2 = "Temas permitidos: Tudo Menos Porn* e Funk .";
 var rulesMsg3 = "";
 var linksMsg = [""];
