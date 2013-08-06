@@ -112,13 +112,13 @@ var COOKIE_HIDE_VIDEO = 'hidevideo';
 var COOKIE_LEFT = 'left';
 var MAX_USERS_WAITLIST = 50;
 
-var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em. 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo."; 
+var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em. 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fiq;min-height:33px;min-width:131px;}',ue pedindo cargo. 6- Sem spam no chat. "; 
 var rulesMsg2 = "Temas permitidos: Tudo Menos Porn* e Funk .";
 var rulesMsg3 = "";
 var linksMsg = [""];
 var skipMsg = ["Por favor, não nos mande pular a música, nós decidimos se pulamos ou não!!"];
 var fansMsg = ["Ganhe seus fãs tocando músicas boas e interagindo com todos :)."];
-var wafflesMsg = ["Entrem na nossa pagina no facebook, lá voce ficará por dentro de tudo que é postado na ODP : https://www.facebook.com/OrnitorrincoDasPutarias/ "];
+var wafflesMsg = ["Entrem na nossa pagina no facebook, lá voce ficará por dentro de tudo que é postado na ODP : https://www.facebook.com/OrnitorrincoPutarias "];
 var bhvMsg = ["Não venha com macacada aqui, porfavor!"];
 var sleepMsg = ["Indo descansar um pouco, mas tarde to de volta :)"];
 var workMsg = ["Vou ficar um pouco ocupado agora, mencione se for importante!"];
@@ -151,15 +151,15 @@ var styles = [
             '.chat-manager {background: url(http://i.imgur.com/hqqhTcp.png) no-repeat 0 5px;padding-left: 17px;width: 292px;}',
             '.chat-cohost {background: url(http://i.imgur.com/njajqVG.png) no-repeat 0 5px;padding-left: 17px;width:292px;}',
             '.chat-host {background: url(http://i.imgur.com/njajqVG.png) no-repeat 0 5px;padding-left: 17px;width: 292px;}',
-            '#dj-console, #dj-console {background-image: url(http://i.imgur.com/gqdMdaz.gif);min-height:33px;min-width:131px;}',
-            '.chat-from-you {color: #0099FF;font-weight: bold;margin-top: 0px; padding-top: 0px;}',
+            '#dj-console, #dj-console {background-image: url(http://i.imgur.com/gqdMdaz.gif)
+            '.chat-from-you {color: #FFD700;font-weight: bold;margin-top: 0px; padding-top: 0px;}',
             '.chat-from-featureddj {color: rgb(255, 0, 135); font-weight: bold; margin-top: 0px; padding-top: 0px;}',
             '.chat-from-bouncer {color: rgb(199, 0, 199); font-weight: bold; margin-top: 0px; padding-top: 0px;}',
             '.chat-from-manager {color: rgb(255, 199, 148); font-weight: bold; margin-top: 0px; padding-top: 0px;}',
             '.chat-from-cohost {color: rgb(255, 92, 0); font-weight: bold; margin-top: 0px; padding-top: 0px;}',
             '.chat-from-host {color: #32CD32;font-weight: bold;margin-top: 0px; padding-top: 0px;}',
-            '#user-points-title {color: #FFFFFF; position: absolute; left: 36px; font-size: 10px;}',
-            '#user-fans-title {color: #FFFFFF; position: absolute; left: 29px; font-size: 10px;}',
+            '#user-points-title {color: #FFD700; position: absolute; left: 36px; font-size: 10px;}',
+            '#user-fans-title {color: #FFD700; position: absolute; left: 29px; font-size: 10px;}',
             '.meta-header span {color: rgba(255, 255, 255, 0.79); position: absolute; left: 15px; font-size: 10px;}',
             '#button-lobby {background-image: url(http://i.imgur.com/brpRaSY.png);}',
             '#volume-bar-value {background-image: url(http://i.imgur.com/xmyonON.png) ;}',
