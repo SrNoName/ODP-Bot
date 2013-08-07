@@ -112,11 +112,11 @@ var COOKIE_HIDE_VIDEO = 'hidevideo';
 var COOKIE_LEFT = 'left';
 var MAX_USERS_WAITLIST = 50;
 
-var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em. 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo. 6- Sem spam no chat. "; 
+var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em, So ADM´s Podem! . 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo. 6- Sem spam no chat. "; 
 var rulesMsg2 = "Temas permitidos: Tudo Menos Porn* e Funk .";
 var rulesMsg3 = "";
 var linksMsg = [""];
-var skipMsg = ["Por favor, não nos mande pular a música, nós decidimos se pulamos ou não!!"];
+var skipMsg = ["Por favor, não nos mande pular a música, nós decidimos se pulamos ou não :v: "];
 var fansMsg = ["Ganhe seus fãs tocando músicas boas e interagindo com todos :) ."];
 var wafflesMsg = ["Entrem na nossa pagina no facebook, lá voce ficará por dentro de tudo que é postado na ODP : https://www.facebook.com/OrnitorrincoPutarias "];
 var bhvMsg = ["Não venha com macacada aqui, porfavor!"];
