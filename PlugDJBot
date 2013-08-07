@@ -112,7 +112,7 @@ var COOKIE_HIDE_VIDEO = 'hidevideo';
 var COOKIE_LEFT = 'left';
 var MAX_USERS_WAITLIST = 50;
 
-var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em, So ADM´s Podem! . 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo. 6- Sem spam no chat. 7- Musicas Repetidas serão Puladas. 8- Musicas foras dos Temas Permitidos serão Puladas.  "; 
+var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em, So ADM´s Podem! . 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo. 6- Sem spam no chat.  "; 
 var rulesMsg2 = "7- Musicas Repetidas serão Puladas. 8- Musicas foras dos Temas Permitidos serão Puladas. ";
 var rulesMsg3 = "Temas permitidos: Tudo Menos Porn* e Funk .";
 var linksMsg = [""];
