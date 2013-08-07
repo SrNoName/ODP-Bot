@@ -112,13 +112,13 @@ var COOKIE_HIDE_VIDEO = 'hidevideo';
 var COOKIE_LEFT = 'left';
 var MAX_USERS_WAITLIST = 50;
 
-var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em, So ADM´s Podem! . 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo. 6- Sem spam no chat. "; 
+var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em, So ADM´s Podem! . 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo. 6- Sem spam no chat. 7- Musicas Repetidas serão Puladas. 8- Musicas foras dos Temas Permitidos serão Puladas.  "; 
 var rulesMsg2 = "Temas permitidos: Tudo Menos Porn* e Funk .";
 var rulesMsg3 = "";
 var linksMsg = [""];
 var skipMsg = ["Por favor, não nos mande pular a música, nós decidimos se pulamos ou não :v: "];
 var fansMsg = ["Ganhe seus fãs tocando músicas boas e interagindo com todos :) ."];
-var wafflesMsg = ["Entrem na nossa pagina no facebook, lá voce ficará por dentro de tudo que é postado na ODP : https://www.facebook.com/OrnitorrincoPutarias "];
+var wafflesMsg = ["Entrem no nosso grupo no facebook, lá voce ficará por dentro de tudo que rola na OZ : https://www.facebook.com/groups/PlugDjOsZikas/ "];
 var bhvMsg = ["Não venha com macacada aqui, porfavor!"];
 var sleepMsg = ["Indo descansar um pouco, mas tarde to de volta :)"];
 var workMsg = ["Vou ficar um pouco ocupado agora, mencione se for importante!"];
@@ -215,7 +215,7 @@ function displayUI() {
 		+	'<a id="plug-btn-en" title="Manda Mensagem de apenas Ingles" style="color:#084B8A">English Only</a>'
 		+	'<a id="plug-btn-fans" title="Manda Mensagem de Fans" style="color:#084B8A">No Fans</a>'
 		+	'<a id="plug-btn-noskip" title="Manda mensagem de NoSkip" style="color:#084B8A">No Skip</a>'
-		+	'<a id="plug-btn-waffles" title="Manda Link da Pagina ODP" style="color:#084B8A">Pagina ODP</a>'
+		+	'<a id="plug-btn-waffles" title="Manda Link do Grupo OZ" style="color:#084B8A">Pagina ODP</a>'
 		+	'<a title="Mudar Seu Status" style="color:#FFD700">Status:</a>'
 		+	'<a id="plug-btn-sleeping" title="Manda Mensagem De Ir Dormir e coloca status Adormecido" style="color:#5F04B4">Adormecido</a>'
 		+	'<a id="plug-btn-working" title="Manda Mensagem de Trabalhar e coloca status Ocupado" style="color:#5F04B4">Ocupado</a>'
