@@ -114,8 +114,8 @@ var MAX_USERS_WAITLIST = 50;
 
 var rulesMsg = "1- Tempo máximo para musicas: 6 minutos. 2- Não escrever em /me ou /em, So ADM´s Podem! . 3- Respeitar os moderadores da sala. 4- Sem Flood no chat . 5- Não fique pedindo cargo. 6- Sem spam no chat.  "; 
 var rulesMsg2 = "7- Musicas Repetidas serão Puladas. 8- Musicas foras dos Temas Permitidos serão Puladas. ";
-var rulesMsg3 = "";
-var linksMsg = ["Temas permitidos: Tudo Menos Porn* e Funk. "];
+var rulesMsg3 = "Temas permitidos: Tudo Menos Porn* e Funk. ";
+var linksMsg = [""];
 var skipMsg = ["Por favor, não nos mande pular a música, nós decidimos se pulamos ou não :v: "];
 var fansMsg = ["Ganhe seus fãs tocando músicas boas e interagindo com todos :) ."];
 var wafflesMsg = ["Entrem no nosso grupo no facebook, lá voce ficará por dentro de tudo que rola na OZ : https://www.facebook.com/groups/PlugDjOsZikas/ "];
