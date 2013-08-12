@@ -112,9 +112,9 @@ var COOKIE_HIDE_VIDEO = 'hidevideo';
 var COOKIE_LEFT = 'left';
 var MAX_USERS_WAITLIST = 50;
 
-var rulesMsg = "1-Tempo máximo para musicas:6 minutos. 2-Não escrever em /me ou /em,So ADM´s Podem! . 3-Respeitar os moderadores da sala. 4-Sem Flood no chat . 5-Não fique pedindo cargo. 6-Sem spam no chat. "; 
-var rulesMsg2 = "7-Musicas Repetidas/Fora dos temas permitidos serão Puladas. 8- Não divulgar outras salas. 9-Plug.DJ é uma plataforma multi-lingual, mas por respeito aos nossos moderadores, pedimos-lhe para escrever em BR/PT. 10-Não pedir Fans. ";
-var rulesMsg3 = "Temas permitidos: Tudo Menos Porn* e Funk. ";
+var rulesMsg = "1- Tempo Maximo para Musicas : 5Min. 2- Respeitar os administradores. . 3-Sem Flood/Spam no chat. 4-Não fique pedindo cargo. 5-Musicas Repetidas/Fora dos temas permitidos serão Puladas! 6- Não divulgar outras salas. 7- Falar apenas em BR/PT. "; 
+var rulesMsg2 = " 1 - Maximum Time for Music: 5Min. 2 - Respect the administrators. 3-No Flood / Spam in chat. 4 - Do not be asking post. 5-Music repeated / Off the themes allowed will be skipped! 6- Do not divulg other rooms. 7- Speak only in BR / PT. ";
+var rulesMsg3 = "Temas permitidos: Tudo Menos Porn* e Funk. / Allowed Themes: Everything But Porn and Funk. ";
 var linksMsg = ["[OZ] Respeitem as Regras Para não ser chutados da sala! "];
 var skipMsg = ["Por favor, não nos mande pular a música, nós decidimos se pulamos ou não :v: "];
 var fansMsg = ["Ganhe seus fãs tocando músicas boas e interagindo com todos :) ."];
